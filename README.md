@@ -10,7 +10,7 @@
 - Supported and maintained the company’s **network infrastructure**.  
 - Assisted in **SAP system administration**, ensuring security and compliance.  
 - Worked on **system upgrades and migrations** to improve efficiency.  
-- Used monitoring tools to identify and resolve **network vulnerabilities**.  
+
 
 ## 🔬 Projects  
 ### 🌍 [Language Detection Model](https://github.com/abhinay0712/Odia-Santali-Dialect-Detection-Dataset) (NLP, Machine Learning)  
@@ -32,14 +32,11 @@
 ## 🌱 Currently Learning  
 - **React.js, GSAP** for frontend development.  
 - **Cloud Technologies (AWS, GCP)**.  
-- **Advanced NLP techniques** for AI applications.  
+- **Advanced NLP techniques** for AI applications.
+- **UI/UX techniques(Figma,Framer)**  
 
 ## 🏆 Certifications  
 - [Problem Solving (Intermediate) - HackerRank](https://www.hackerrank.com/certificates/f172671d2439)  
-
-## ⚽ Extracurricular Activities  
-- **Zonal Level U-18 Soccer Player** (DAV National Meet).  
-- **District-Level Athletics Participant**.  
 
 ## 📊 GitHub Stats  
 <p align="center">
